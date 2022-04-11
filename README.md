@@ -10,4 +10,4 @@
 ![Profile views](https://gpvc.arturio.dev/kotushkens) 
 
 ## 📫 How to reach me:
-You can contact me via email. Follow my socials! [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow kotushkens on Instagram"/>](https://instagram.com/kotushkens)
+You can contact me via <a href='ekaterinadmi@yahoo.com'>email</a>. Follow my socials! [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow kotushkens on Instagram"/>](https://instagram.com/kotushkens)
