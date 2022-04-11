@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome!  </h1>
+🎓  My name is Ekaterina and I'm currently studying at the <a href="http://https://itmo.ru">ITMO University </a> in Saint-Petersburg at the "Software Engineering" Bachelor degree programme.
 
-<!--
-**kotushkens/kotushkens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My stats: 
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotushkens)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kotushkens&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/kotushkens) 
+
+## 📫 How to reach me:
+You can contact me via email. Follow my socials! [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow kotushkens on Instagram"/>](https://instagram.com/kotushkens)
